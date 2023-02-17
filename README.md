@@ -42,5 +42,6 @@ If you just want to jump to the end:
 - Copy/paste the `point_e_to_bif_tutorial.py` script into a python tab in Maya's script editor
 - Copy/paste your Replicate API token between the single quotes in line 7 of the script: `API_KEY = ''`
 - Run the script. A prompt dialog will appear with a default prompt. Type your prompt and hit `OK`. The results should update in Maya's viewport in ~1 minutes when the 
+- You can find some sample Bifrost graphs in [examples](https://github.com/evanatherton/point-e_to_maya_tutorial/tree/main/examples) for some ideas on how to continue working with your point clouds in Maya
 
 Otherwise, I'll walk you through the rest here:
