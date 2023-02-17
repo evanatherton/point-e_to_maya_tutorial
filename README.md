@@ -36,6 +36,10 @@ If you don't see an error, you should be good to go.
 
 Lastly, you'll need a Replicate API token, which you can get by signing up for a Replicate account (or by logging in with your GitHub account), and going to your [Account](https://replicate.com/account) page.
 
+## Video Tutorial
+
+[Video coming soon...]
+
 ##
 If you just want to jump to the end:
 - Download and open the `openai_point-e_tutorial.ma` file
@@ -44,4 +48,4 @@ If you just want to jump to the end:
 - Run the script. A prompt dialog will appear with a default prompt. Type your prompt and hit `OK`. The results should update in Maya's viewport in ~1 minutes when the 
 - You can find some sample Bifrost graphs in [examples](https://github.com/evanatherton/point-e_to_maya_tutorial/tree/main/examples) for some ideas on how to continue working with your point clouds in Maya
 
-Otherwise, I'll walk you through the rest here:
+
