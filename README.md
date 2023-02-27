@@ -43,11 +43,13 @@ If you don't see an error, you should be good to go.
 
 Lastly, you'll need a Replicate API token, which you can get by signing up for a Replicate account (or by logging in with your GitHub account), and going to your [Account](https://replicate.com/account) page.
 
-##
+## Running the example graph
 - Download and open the `openai_point-e_tutorial.ma` file
 - Copy/paste the `point_e_to_bif_tutorial.py` script into a python tab in Maya's script editor
 - Copy/paste your Replicate API token between the single quotes in line 7 of the script: `API_KEY = ''`
 - Run the script. A prompt dialog will appear with a default prompt. Type your prompt and hit `OK`. The results should update in Maya's viewport in ~1 minutes when the 
 - You can find some sample Bifrost graphs in [examples](https://github.com/evanatherton/point-e_to_maya_tutorial/tree/main/examples) for some ideas on how to continue working with your point clouds in Maya
+
+Note: the Plexus example graph requires the MJCG Compound pack, which you can download [here](https://mjcg.gumroad.com/l/mjcg_compounds)
 
 
