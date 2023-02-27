@@ -9,6 +9,13 @@ In this tutorial we will:
 
 Result are usually returned in around 1 minute, but the first run could take closer to 3 minutes. See Replicate's info on [Cold boots](https://replicate.com/docs/how-does-replicate-work#cold-boots) to find out more.
 
+## Video Tutorial
+
+[![Tutorial: text-to-3d in Maya with point-e and Bifrost](https://img.youtube.com/vi/f7Ku907tIFg/0.jpg)](https://youtu.be/f7Ku907tIFg)
+
+
+If you just want to skip the video and just run the example graphs, follow these steps:
+
 ## Getting Started
 This tuturial uses Maya 2023 and Bifrost 2.6, but should work with Maya 2022 and Bifrost 2.5 and later.
 First we need to install the `replicate` library using `mayapy`, Maya's Python interpreter:
@@ -36,13 +43,7 @@ If you don't see an error, you should be good to go.
 
 Lastly, you'll need a Replicate API token, which you can get by signing up for a Replicate account (or by logging in with your GitHub account), and going to your [Account](https://replicate.com/account) page.
 
-## Video Tutorial
-
-[![Tutorial: text-to-3d in Maya with point-e and Bifrost](https://img.youtube.com/vi/f7Ku907tIFg/0.jpg)](https://youtu.be/f7Ku907tIFg)
-
-
 ##
-If you just want to jump to the end:
 - Download and open the `openai_point-e_tutorial.ma` file
 - Copy/paste the `point_e_to_bif_tutorial.py` script into a python tab in Maya's script editor
 - Copy/paste your Replicate API token between the single quotes in line 7 of the script: `API_KEY = ''`
