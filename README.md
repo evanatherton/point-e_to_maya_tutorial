@@ -38,7 +38,8 @@ Lastly, you'll need a Replicate API token, which you can get by signing up for a
 
 ## Video Tutorial
 
-[Video coming soon...]
+[![Tutorial: text-to-3d in Maya with point-e and Bifrost](https://img.youtube.com/vi/f7Ku907tIFg/0.jpg)](https://youtu.be/f7Ku907tIFg)
+
 
 ##
 If you just want to jump to the end:
