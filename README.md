@@ -14,7 +14,7 @@ Result are usually returned in around 1 minute, but the first run could take clo
 [![Tutorial: text-to-3d in Maya with point-e and Bifrost](https://img.youtube.com/vi/f7Ku907tIFg/0.jpg)](https://youtu.be/f7Ku907tIFg)
 
 
-If you just want to skip the video and just run the example graphs, follow these steps:
+If you want to skip the video and just run the example graphs, follow these steps:
 
 ## Getting Started
 This tuturial uses Maya 2023 and Bifrost 2.6, but should work with Maya 2022 and Bifrost 2.5 and later.
