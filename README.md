@@ -1,6 +1,6 @@
 # Tutorial: Using [point-e](https://github.com/openai/point-e) in Autodesk Maya
 
-This tutorial will get you started using point point-e in Autodesk Maya with Bifrost. point-e is OpenAI's text-to-3D model that generates point clouds from complext prompts.
+This tutorial will get you started using point point-e in Autodesk Maya with Bifrost. point-e is OpenAI's text-to-3D model that generates point clouds from complex prompts.
 
 In this tutorial we will:
 - Use Maya's python script editor to send prompts to the point-e model using the [Replicate API](https://replicate.com/cjwbw/point-e)
